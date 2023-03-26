@@ -14,4 +14,4 @@ HTML,
 CSS.
 
 Contributing:
-ontributions are welcome! Feel free to open a pull request or submit an issue if you find any bugs or want to suggest an improvement.
+Contributions are welcome! Feel free to open a pull request or submit an issue if you find any bugs or want to suggest an improvement.
